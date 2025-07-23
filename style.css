@@ -1,5 +1,14 @@
-h1 {
- background: yellow;
+h1{ 
+background-color: blue;
  font-size: 80px;
   border: 10px;
+   border-style: dashed;
 }
+h2 {
+background-color: orange;
+ font-size: 60px;
+  border: 5 px;
+   border-style: dashed;
+}
+background {
+color: black; }
